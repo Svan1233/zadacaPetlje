@@ -1,0 +1,6 @@
+C:\Users\Korisnik\Desktop\Zadace\svanTipuricZadacaPetlje\svanTipuricZadacaPetlje\obj\Debug\svanTipuricZadacaPetlje.csprojAssemblyReference.cache
+C:\Users\Korisnik\Desktop\Zadace\svanTipuricZadacaPetlje\svanTipuricZadacaPetlje\bin\Debug\svanTipuricZadacaPetlje.exe.config
+C:\Users\Korisnik\Desktop\Zadace\svanTipuricZadacaPetlje\svanTipuricZadacaPetlje\bin\Debug\svanTipuricZadacaPetlje.exe
+C:\Users\Korisnik\Desktop\Zadace\svanTipuricZadacaPetlje\svanTipuricZadacaPetlje\bin\Debug\svanTipuricZadacaPetlje.pdb
+C:\Users\Korisnik\Desktop\Zadace\svanTipuricZadacaPetlje\svanTipuricZadacaPetlje\obj\Debug\svanTipuricZadacaPetlje.exe
+C:\Users\Korisnik\Desktop\Zadace\svanTipuricZadacaPetlje\svanTipuricZadacaPetlje\obj\Debug\svanTipuricZadacaPetlje.pdb
